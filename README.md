@@ -2,7 +2,7 @@
 
 - 🎓 I’m studying at Makers Academy bootcamp
 
-- 🌱 I currently use Ruby and JavaScript, but I love to learn new things!
+- 🌱 I currently use [Ruby](https://github.com/lukestorey95?tab=repositories&q=&type=&language=ruby&sort=) and [JavaScript](https://github.com/lukestorey95?tab=repositories&q=&type=&language=javascript&sort=), but I love to learn new things!
 
 - 💞️ I'm an advocate for pair programming and am open to collaborating on interesting projects
 
