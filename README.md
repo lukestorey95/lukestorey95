@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luke and I write software, that is well tested and is easy to read and change
+- 👋 Hi, I’m Luke and I write software that is well tested, easy to read and easy to change
 
 - 🎓 I’m studying at Makers Academy bootcamp
 
