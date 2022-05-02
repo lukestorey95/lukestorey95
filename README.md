@@ -6,7 +6,7 @@
 
 - 💞️ I'm an advocate for pair programming and am open to collaborating on interesting projects
 
-- 👀 I'm actively looking for Software Engineering jobs and you can find me on on [LinkedIn](www.linkedin.com/in/lukemstorey)
+- 👀 I'm actively looking for Software Engineering jobs and you can find me on on [LinkedIn](https://www.linkedin.com/in/lukemstorey)
 
 - 📫 I'm on [Twitter](https://twitter.com/luke_learns) if you're interested in hearing about my learning journey
 
