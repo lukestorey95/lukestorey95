@@ -10,8 +10,8 @@
 
 - 📫 I'm on [Twitter](https://twitter.com/luke_learns) and have a [blog](https://medium.com/@lukelearns) if you're interested in hearing about my learning journey
 
-<!---
-lukestorey95/lukestorey95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukestorey95&layout=compact" />
+</div>
