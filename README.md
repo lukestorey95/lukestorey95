@@ -1,19 +1,20 @@
-<ul align="center"  >
-  <li> 👋 Hi, I’m Luke and I write software that is well tested, easy to read and easy to change </li>
+<div align="center">
+  <p> 👋 Hi, I’m Luke and I write software that is well tested, easy to read and easy to change </p>
   <br>
-  <li> 🎓 I’m studying at Makers Academy bootcamp </li>
+  <p> 🎓 I’m studying at Makers Academy bootcamp </p>
   <br>
-  <li> 🌱 I currently use <a href="https://github.com/lukestorey95?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a> and <a href="https://github.com/lukestorey95?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a>, but I love to learn new things! </li>
+  <p> 🌱 I currently use <a href="https://github.com/lukestorey95?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a> and <a href="https://github.com/lukestorey95?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a>, but I love to learn new things! </p>
   <br>
-  <li> 💞️ I'm an advocate for pair programming and am open to collaborating on interesting projects </li>
+  <p> 💞️ I'm an advocate for pair programming and am open to collaborating on interesting projects </p>
   <br>
-  <li> 👀 I'm actively looking for Software Engineering jobs and you can find me on on <a href="https://www.linkedin.com/in/lukemstorey">LinkedIn</a> </li>
+  <p> 👀 I'm actively looking for Software Engineering jobs and you can find me on on <a href="https://www.linkedin.com/in/lukemstorey">LinkedIn</a> </p>
   <br>
-  <li> 📫 I'm on <a href="https://twitter.com/luke_learn">Twitter</a> and have a <a href="https://medium.com/@lukelearns">blog</a> if you're interested in hearing about my learning journey </li>
-</ul>
+  <p> 📫 I'm on <a href="https://twitter.com/luke_learn">Twitter</a> and have a <a href="https://medium.com/@lukelearns">blog</a> if you're interested in hearing about my learning journey </p>
+</div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukestorey95&layout=compact" />
 </div>
+
